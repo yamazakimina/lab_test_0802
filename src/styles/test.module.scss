@@ -1,5 +1,40 @@
-.test{
-    color: green;
+.h1{
     font-weight: bold;
-    background: pink;
+    color: aqua;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px;
+}
+.h2{
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.btn{
+    background-color: aqua; 
+    color: white;
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer; 
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.title{
+    color: aqua;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.date{   
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.p{
+    padding-left: 20px;
+    padding-right: 20px;
 }
